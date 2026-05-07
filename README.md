@@ -1,3 +1,10 @@
+# 📊 ShopNest Store Analytics Dashboard (Power BI)
+
+## 🚀 Project Overview
+This project presents a comprehensive Power BI dashboard built on a retail e-commerce dataset. The goal is to derive actionable insights related to sales performance, delivery efficiency, customer behavior, and product satisfaction.
+
+The dashboard integrates multiple datasets and applies data modeling, DAX calculations, and interactive visualizations to support business decision-making.
+
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Overview
