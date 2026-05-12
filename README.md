@@ -15,3 +15,30 @@ The dashboard integrates multiple datasets and applies data modeling, DAX calcul
 
 ### 🔹 Order Delivery Analysis and Top rated products
 <img width="1286" height="426" alt="image" src="https://github.com/user-attachments/assets/852cab2d-434f-44e8-b586-dc799365dfcc" />
+
+## 📊 Key Features & Analysis
+
+### 1. Top Categories by Sales
+- Identified top 10 product categories contributing to total revenue.
+
+### 2. Delayed Orders Analysis
+- Analyzed delayed deliveries where actual delivery exceeded estimated date.
+
+### 3. Monthly Delivery Performance
+- Compared delayed vs on-time orders across months.
+
+### 4. Payment Method Analysis
+- Visualized most frequently used payment methods.
+
+### 5. Product Rating Analysis
+- Identified top 10 highest-rated and bottom 10 lowest-rated products.
+
+### 6. State-wise Sales Analysis
+- Mapped revenue distribution across regions.
+
+### 7. Seasonal Sales Trends
+- Analyzed monthly and quarterly sales patterns.
+
+### 8. Revenue Analysis
+- Evaluated yearly revenue trends and growth patterns.
+
