@@ -40,7 +40,7 @@ The dashboard integrates multiple datasets and applies:
 
 ---
 
-## Project Workflow
+## 📌 Project Workflow
 1. Data Collection
 2. Data Modeling
 3. DAX Calculations
